@@ -1,4 +1,4 @@
-# EXP NO:8A PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
+# EXP NO: 2A PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
 # Aim:
 To write a C program print the lowercase English word corresponding to the number
 # Algorithm:
@@ -78,7 +78,7 @@ printf("Greater than 13");
 # Result:
 Thus, the program is verified successfully
  
-# EXP NO:8B PROGRAM TO PRINT TEN SPACE-SEPARATED INTEGERS IN A SINGLE  LINE DENOTING THE FREQUENCY OF EACH DIGIT FROM 0 TO 3 .
+# EXP NO: 2B PROGRAM TO PRINT TEN SPACE-SEPARATED INTEGERS IN A SINGLE  LINE DENOTING THE FREQUENCY OF EACH DIGIT FROM 0 TO 3 .
 # Aim:
 To write a C program to print ten space-separated integers in a single line denoting the frequency of each digit from 0 to 3.
 # Algorithm:
@@ -118,7 +118,7 @@ printf("%d ",c); h++;
 # Result:
 Thus, the program is verified successfully
 
-# EXP NO:8C PROGRAM TO PRINT ALL OF ITS PERMUTATIONS IN STRICT LEXICOGRAPHICAL ORDER.
+# EXP NO: 2C PROGRAM TO PRINT ALL OF ITS PERMUTATIONS IN STRICT LEXICOGRAPHICAL ORDER.
 # Aim:
 To write a C program to print all of its permutations in strict lexicographical order.
 
@@ -188,7 +188,7 @@ free(s); return 0;
 # Result:
 Thus, the program is verified successfully
  
-# EXP NO:8D PROGRAM PRINT A PATTERN OF NUMBERS FROM 1 TO N AS
+# EXP NO: 2D PROGRAM PRINT A PATTERN OF NUMBERS FROM 1 TO N AS
 SHOWN BELOW.
 # Aim:
 To write a C program to print a pattern of numbers from 1 to n as shown below.
@@ -229,7 +229,7 @@ return 0;
 # Result:
 Thus, the program is verified successfully
 
-# EXP NO:8E PROGRAM TO FIND A SQUARE  OF NUMBER USING FUNCTION WITHOUT ARGUMENTS WITH RETURN TYPE
+# EXP NO: 2E PROGRAM TO FIND A SQUARE  OF NUMBER USING FUNCTION WITHOUT ARGUMENTS WITH RETURN TYPE
 
 # Aim:
 
