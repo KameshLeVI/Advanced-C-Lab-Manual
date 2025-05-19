@@ -1,4 +1,4 @@
-# EXP NO:11A  PROGRAM TO CREATE A FUNCTION TO FIND THE GREATEST NUMBER
+# EXP NO: 5A  PROGRAM TO CREATE A FUNCTION TO FIND THE GREATEST NUMBER
 #  Aim:
 To write a C program to create a function to find the greatest number
 
@@ -43,7 +43,7 @@ Thus, the program  that create a function to find the greatest number is verifie
 
 
  
-# EXP NO:11B PROGRAM TO PRINT THE MAXIMUM VALUES FOR THE AND, OR AND  XOR COMPARISONS
+# EXP NO: 5B PROGRAM TO PRINT THE MAXIMUM VALUES FOR THE AND, OR AND  XOR COMPARISONS
 # Aim:
 To write a C program to print the maximum values for the AND, OR and XOR comparisons
 
@@ -96,7 +96,7 @@ is verified successfully.
 
 
  
-# EXP NO:11C PROGRAM TO WRITE THE LOGIC FOR THE REQUESTS
+# EXP NO: 5C PROGRAM TO WRITE THE LOGIC FOR THE REQUESTS
 # Aim:
 To write a C program to write the logic for the requests
 
@@ -142,7 +142,7 @@ Thus, the program to write the logic for the requests is verified successfully.
 
 
  
-# EXP NO:11D PROGRAM PRINT THE SUM OF THE INTEGERS IN THE ARRAY.
+# EXP NO: 5D PROGRAM PRINT THE SUM OF THE INTEGERS IN THE ARRAY.
 # Aim:
 To write a C program print the sum of the integers in the array.
 
@@ -181,7 +181,7 @@ Thus, the program prints the sum of the integers in the array is verified succes
 
 
  
-# EXP NO :11E C PROGRAM TO COUNT THE NUMBER OF WORDS IN A      SENTENCE
+# EXP NO : 5E C PROGRAM TO COUNT THE NUMBER OF WORDS IN A      SENTENCE
 
 
 
