@@ -1,4 +1,4 @@
-# EXP NO :12A PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
+# EXP NO : 6A PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
 # Aim:
 To write a C program to display stack elements using linked list.
 
@@ -35,7 +35,7 @@ Thus, the program to display stack elements using linked list is verified succes
 
 
 
-# EXP.NO : 12B PROGRAM TO POP AN ELEMENT FROM THE GIVEN STACK USING 
+# EXP.NO : 6B PROGRAM TO POP AN ELEMENT FROM THE GIVEN STACK USING 
 LINKED LIST.
 # Aim:
 To write a C program to pop an element from the given stack using liked list.
@@ -72,7 +72,7 @@ head=head->next;
 Thus, the program to pop an element from the given stack using liked list is verified successfully.
 
  
-# EXP NO:12C PROGRAM TO DISPLAY QUEUE ELEMENTS USING LINKED LIST.
+# EXP NO: 6C PROGRAM TO DISPLAY QUEUE ELEMENTS USING LINKED LIST.
 # Aim:
 To write a C program to display queue elements using linked list.
 Algorithm:
@@ -112,7 +112,7 @@ Thus, the program to display queue elements using linked list is verified succes
 
 
  
-# EXP NO:12D PROGRAM TO INSERT ELEMENTS IN QUEUE USING LINKED LIST
+# EXP NO: 6D PROGRAM TO INSERT ELEMENTS IN QUEUE USING LINKED LIST
 
 # Aim:
 To write a C program to insert elements in queue using linked list
@@ -155,7 +155,7 @@ Thus, the program to insert elements in queue using linked list is verified succ
 
 
 
-# EXP NO:12E FUNCTION TO FIND THE PEEK OF QUEUE USING LINKED LIST.
+# EXP NO: 6E FUNCTION TO FIND THE PEEK OF QUEUE USING LINKED LIST.
 
 
 # Aim:
